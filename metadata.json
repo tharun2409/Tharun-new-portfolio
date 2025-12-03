@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Tharun Balaji Portfolio",
+  "description": "Interactive portfolio for Tharun Balaji featuring a Gemini-powered Voice Agent and highlighting AI Automation skills.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
